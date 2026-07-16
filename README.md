@@ -1,49 +1,50 @@
-<div align="center">
-  <a href="https://github.com/hurman11">
-    <!-- REPLACE THIS IMAGE SRC WITH YOUR CUSTOM ANIME/LAIN BANNER LATER -->
-    <img src="https://placehold.co/1000x300/0d1117/00e5ff/png?text=+[Drop+Custom+Lain/Anime+Banner+Here]+" alt="Header Banner" width="100%"/>
-  </a>
+<div align="left">
 
-  <br/>
-  
+```text
+[ OK ] Booting core system kernel...
+[ OK ] Loading AI neural networks...
+[ OK ] Establishing secure connection to Underworld main server...
+[ OK ] Authentication successful. Welcome, System Admin.
+```
+
   <a href="https://github.com/hurman11">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00e5ff&center=true&vCenter=true&width=600&lines=%E2%9D%AF+.%2Fsystem_call+--objective;%22Architecting+AI+agents%22;%22Immersive+3D+web+experiences%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1500&color=00FFFF&vCenter=true&width=800&lines=hurman11@sys%3A~%24+./architect_ai_agents.sh;hurman11@sys%3A~%24+./build_immersive_web.sh;hurman11@sys%3A~%24+run_full_dive_protocol" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-### 📂 [DATA LOG] Featured Projects
+### 📂 [DIR] ~/featured_projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%">
       <a href="https://github.com/hurman11/AI-Network-Analyzer">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=AI-Network-Analyzer&theme=tokyonight&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true" width="100%" alt="AI-Network-Analyzer" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=AI-Network-Analyzer&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=C9D1D9&border_color=00FFFF&border_radius=0" width="100%" alt="AI-Network-Analyzer" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/hurman11/Ai-Quiz-Generaor">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=Ai-Quiz-Generaor&theme=tokyonight&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true" width="100%" alt="Ai-Quiz-Generator" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=Ai-Quiz-Generaor&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=C9D1D9&border_color=00FFFF&border_radius=0" width="100%" alt="Ai-Quiz-Generator" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/hurman11/PixelVAult">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=PixelVAult&theme=tokyonight&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true" width="100%" alt="PixelVAult" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=PixelVAult&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=C9D1D9&border_color=00FFFF&border_radius=0" width="100%" alt="PixelVAult" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/hurman11/Watch-store">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=Watch-store&theme=tokyonight&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true" width="100%" alt="Watch-store" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=Watch-store&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=C9D1D9&border_color=00FFFF&border_radius=0" width="100%" alt="Watch-store" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" colspan="2" align="center">
       <a href="https://github.com/hurman11/Interaction.co">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=Interaction.co&theme=tokyonight&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true" width="50%" alt="Interaction.co" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hurman11&repo=Interaction.co&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=C9D1D9&border_color=00FFFF&border_radius=0" width="50%" alt="Interaction.co" />
       </a>
     </td>
   </tr>
@@ -51,24 +52,24 @@
 
 <br/>
 
-### 📊 [SYSTEM METRICS] Performance
+### 📊 [SYS] runtime_metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hurman11&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurman11&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakNum=c9d1d9&currStreakLabel=00e5ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hurman11&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF&show_icons=true&border_color=00FFFF&border_radius=0" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurman11&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakNum=C9D1D9&currStreakLabel=00FFFF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=00FFFF&border_radius=0" alt="Streak Stats" />
 </div>
 
 <br/>
 
-### 📈 [ACTIVITY SENSOR] Contribution Graph
+### 📈 [DATA] activity_log
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hurman11&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hurman11&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=false&border_radius=0" alt="Contribution Graph" width="100%" />
 </div>
 
 <br/>
 
-### 🐍 [BACKGROUND PROCESS] System Scan
+### 🐍 [PROC] bg_snake_execution
 
 <div align="center">
   <picture>
