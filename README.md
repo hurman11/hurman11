@@ -1,10 +1,14 @@
 <div align="center">
   <a href="https://github.com/hurman11">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=LINK%20START&fontSize=70&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=System%20Call:%20Architecting%20AI%20Agents%20&%203D%20Web%20Experiences&descAlignY=55&descAlign=50&descSize=22&descColor=ffffff" alt="Header Banner" width="100%"/>
+    <!-- REPLACE THIS IMAGE SRC WITH YOUR CUSTOM ANIME/LAIN BANNER LATER -->
+    <img src="https://placehold.co/1000x300/0d1117/00e5ff/png?text=+[Drop+Custom+Lain/Anime+Banner+Here]+" alt="Header Banner" width="100%"/>
   </a>
 
   <br/>
-  <h3 align="center"> ❯ ./system_call --objective "Architecting AI agents & immersive web experiences" </h3>
+  
+  <a href="https://github.com/hurman11">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00e5ff&center=true&vCenter=true&width=600&lines=%E2%9D%AF+.%2Fsystem_call+--objective;%22Architecting+AI+agents%22;%22Immersive+3D+web+experiences%22" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -47,15 +51,11 @@
 
 <br/>
 
-### 📊 [SYSTEM METRICS] Performance & Trophies
+### 📊 [SYSTEM METRICS] Performance
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hurman11&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurman11&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakNum=c9d1d9&currStreakLabel=00e5ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://metrics.lecoq.io/hurman11?template=classic&base=0&plugins=achievements&achievements_limit=6&achievements_display=compact&config_theme=dark&achievements_threshold=C" alt="GitHub Trophies via Metrics" width="800px" />
 </div>
 
 <br/>
